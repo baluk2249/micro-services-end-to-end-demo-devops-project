@@ -28,7 +28,7 @@ jobs:
           fetch-depth: 0
       - uses: ./.github/workflows/actions
       - name: Run Maven build command
-        run: mnv clean install -pl cart -am
+        run: mvn clean install -pl cart -am
       - name: Run Maven Checkstyle
         if: ${{ env.FROM_ORIGINAL_REPOSITORY == 'true' }}
         run: mvn checkstyle:check -pl cart -am -Dcheckstyle.output.file=cart-checkstyle-result.xml
