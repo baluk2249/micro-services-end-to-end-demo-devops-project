@@ -19,6 +19,8 @@ on:
 permissions:
   checks: write
   contents: read
+  packages: write
+  contents: read
 jobs:
   build:
     runs-on: ubuntu-latest
