@@ -13,7 +13,7 @@
     <name>backoffice-bff</name>
     <description>Backend for backoffice</description>
     <properties>
-        <sonar.projectKey>nashtech-garage_yas-backoffice-bff</sonar.projectKey>
+        <sonar.projectKey>baluk2249_micro-services-end-to-end-demo-devops-project</sonar.projectKey>
     </properties>
     <dependencies>
         <dependency>
