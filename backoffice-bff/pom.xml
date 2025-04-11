@@ -13,7 +13,7 @@
     <name>backoffice-bff</name>
     <description>Backend for backoffice</description>
     <properties>
-        <sonar.projectKey>baluk2249_micro-services-end-to-end-demo-devops-project</sonar.projectKey>
+        <sonar.projectKey>baluk2249_micro-services-end-to-end-demo-devops-project-backoffice-bff</sonar.projectKey>
     </properties>
     <dependencies>
         <dependency>
