@@ -22,6 +22,9 @@
 
         <spring-ai.version>1.0.0-M2</spring-ai.version>
         <commons-text.version>1.12.0</commons-text.version>
+        <sonar.organization>baluk2249</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.projectKey>baluk2249_micro-services-end-to-end-demo-devops-project-recommendation</sonar.projectKey>
     </properties>
 
     <dependencies>
