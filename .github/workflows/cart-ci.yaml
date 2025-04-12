@@ -16,10 +16,6 @@ on:
      - ".github/workflows/cart-ci.yaml"
      - "pom.xml"
   workflow_dispatch:
-permissions:
-  checks: write
-  contents: read
-  packages: write
 jobs:
   build:
     runs-on: ubuntu-latest
