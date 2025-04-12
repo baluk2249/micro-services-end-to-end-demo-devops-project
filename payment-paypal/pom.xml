@@ -14,9 +14,9 @@
     <name>payment-paypal</name>
     <description>Payment with paypal service for yas project</description>
     <properties>
-        <sonar.organization>nashtech-garage</sonar.organization>
+        <sonar.organization>baluk2249</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.projectKey>nashtech-garage_yas-payment-paypal</sonar.projectKey>
+        <sonar.projectKey>baluk2249_micro-services-end-to-end-demo-devops-project-payment-paypal</sonar.projectKey>
     </properties>
     <dependencies>
         <dependency>
